@@ -1,5 +1,6 @@
 # AliExpress_FullProject
 ## TestReport and TestCases
+* Register and SignIn feature
 * Testing website https://best.aliexpress.com/ 
 * Testcase -51
 * Passed - 46
@@ -15,7 +16,8 @@
 * Included the components which should be incorporated in a Bug Report
 	
 ## TestMetrics
-* Overall testing informantion
+* Overall testing informantions
 
-## Browser and Version
+## Technologies
+Project is created with:
 * Chorome 106.0.5249.62
